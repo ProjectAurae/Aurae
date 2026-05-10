@@ -11,6 +11,7 @@ We won't release builds or source code on the internet for now, because it would
 - Core: ARMv8.2-A CPU Recompiler (JIT)
 - Graphics: Initial Vulkan 1.4 implementation with preliminary Ray Reconstruction support.
 - Kernel: HOS 19.x equivalent syscall mapping.
+- Environment: Rust 1.94
 
 #### 🛡 Our Philosophy (No Paywalls)
 We've watched the emulation scene change over the last few years. We want to be clear about our stance:
