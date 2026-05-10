@@ -29,6 +29,7 @@ If you appreciate the work we've done over the past year and want to help accele
 
 #### Bitcoin (BTC) Address:
 bc1qxsy2xm7q2e4nry3708zqdeg7vnut880p8wueae
+![description](imgs/bt.png)
 
 #### ⚠️ Disclaimer & Legal
 Aurora is not affiliated with any console manufacturer.
