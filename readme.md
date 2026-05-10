@@ -28,9 +28,8 @@ Developing for a platform that is still in its infancy is an expensive and time-
 
 If you appreciate the work we've done over the past year and want to help accelerate the maturity of our dumping tools and emulator core, we accept donations via Bitcoin. Your support helps us buy the hardware we eventually have to break to make this software possible.
 
-#### Bitcoin (BTC) Address:
-bc1qxsy2xm7q2e4nry3708zqdeg7vnut880p8wueae
-![description](imgs/bt.png)
+#### Bitcoin (BTC) Address: bc1qxsy2xm7q2e4nry3708zqdeg7vnut880p8wueae
+<img align="left" width="256" height="256" src="imgs/bt.png">
 
 #### ⚠️ Disclaimer & Legal
 Aurora is not affiliated with any console manufacturer.
